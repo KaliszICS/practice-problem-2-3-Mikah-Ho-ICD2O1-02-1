@@ -2,10 +2,10 @@ public class PracticeProblem {
 
 	public static void main(String[] args) {
         // Example calls — students can test with different values
-        circleArea(5.0);
-        minutesToHours(100);
-        simpleInterest(200.0, 10.0, 8);
-        hypotenuse(70.0, 1.75);
+        // circleArea(5.0);
+        // minutesToHours(100);
+        // simpleInterest(200.0, 10.0, 8);
+        // hypotenuse(70.0, 1.75);
     }
 
     /**
@@ -50,6 +50,3 @@ public class PracticeProblem {
         return hypotenuse;
     }
 }
-
-
-    
